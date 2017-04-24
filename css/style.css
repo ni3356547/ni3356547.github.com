@@ -12,6 +12,7 @@ li{
 body{
 	overflow-x: hidden;
 	width: 1366px;
+	margin:auto;
 	background-color:whiteSmoke;
     }
 #header{
