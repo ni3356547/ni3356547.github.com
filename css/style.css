@@ -799,14 +799,14 @@ body{
 	 margin:-175px 0 0 30px; }
 		
 .movieinfo h3 { color:#7a3f3a; font-variant: small-caps; font-size:15px; font-family:Georgia,serif,Times; text-align:center; padding-bottom:0px; }
-.movieinfo p { padding-bottom:5px; }
-.movieinfo a { background-color:#7a3f3a; padding:5px 10px; color:#eee; text-decoration:none; display:block; width:80px; text-align:center; margin:0 auto;
+.movieinfo p { padding-bottom:5px; height:90px;overflow: hidden;}
+.movieinfo a { background-color:#7a3f3a;padding:5px 10px; color:#eee; text-decoration:none; display:block; width:80px; text-align:center; margin:0 auto;
 	-moz-border-radius:5px; 
 	-webkit-border-radius:5px;
 	-ms-border-radius:5px;
 	-o-border-radius:5px;
 	border-radius:5px; }
-.movieinfo a:hover, .movieinfo a:focus { background-color:#6a191f; color:#fff; }
+.movieinfo a:hover, .movieinfo a:focus { background-color:#6a191f; color:#fff;}
 
 .case5{
 	background:#fff;
