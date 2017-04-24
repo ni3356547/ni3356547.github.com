@@ -9,9 +9,9 @@ a{
 	text-decoration:none;}
 li{
 	list-style:none;}
-body,html{
-	margin:auto;
-	width: 1366px;
+body{
+	overflow-x: hidden;
+	width: 1355px;
 	background-color:whiteSmoke;
     }
 #header{
